@@ -1,2 +1,2 @@
 # tscroll
-iscroll typescript version
+iscroll typescript version for learning
